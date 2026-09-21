@@ -1,30 +1,33 @@
 <h1 align="center">Hello! My name is azxc1</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1000&color=F72E2E&width=435&lines=hi)](https://git.io/typing-svg)
-![Profile Views](https://komarev.com/ghpvc/?username=7kotaaa&style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1000&color=F72E2E&width=435&lines=Roblox+%2F+Luau+Developer;Building+Sword+Clash+%26+openLuauS)](https://git.io/typing-svg)
 
-- Currently working on **Sword Clash** (Roblox) and **openBatch**
-- Learning C#
+![Profile Views](https://komarev.com/ghpvc/?username=azzzxc1&style=for-the-badge)
 
-## 📫 Contact
-- Mail:
-- 
-## Tech
+- Currently working on **Sword Clash** (Roblox), and **openLuauS**
+- Learning C# and Java
+
+## Contact
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azxc1.q1@hotmail.com)
+
+## About
 ### Languages
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### IDE
-[![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com/chrome/)
+[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)](https://brave.com/)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-![VSCode](https://img.shields.io/badge/VSCode-222222?style=for-the-badge&logo=VSCode%2B%2B&logoColor=90E59A)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
 ## Stats
-![azxc1's GitHub stats](https://github-readme-stats.vercel.app/api?username=7kotaaa&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7kotaaa&layout=compact&theme=transparent)
+![azxc1's GitHub stats](https://selfhosted-vercel.vercel.app/api?username=azzzxc1&show_icons=true&theme=transparent)
+![Top Languages](https://selfhosted-vercel.vercel.app/api/top-langs/?username=azzzxc1&layout=compact&theme=transparent)
 
-## 📌 Projects
-
+## Projects
 - **Sword Clash** — A multiplayer sword-combat game built in Roblox/Luau
+- **openLuauS** — My own lib/repo for modules and utilities for Luau
 - **openBatch** — A portable single-exe C# tool that extends Windows Batch scripting
