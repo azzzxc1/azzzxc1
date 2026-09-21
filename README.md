@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=azzzxc1&style=for-the-badge)
 
-- Currently working on **Sword Clash** (Roblox), and **openLuauS**
+- Currently working on **Sword Clash** (Roblox), and **openLuaus**
 - Learning C# and Java
 
 ## Contact
@@ -29,5 +29,5 @@
 
 ## Projects
 - **Sword Clash** — A multiplayer sword-combat game built in Roblox/Luau
-- **openLuauS** — My own lib/repo for modules and utilities for Luau
+- **openLuaus** — My own lib/repo for modules and utilities for Luau
 - **openBatch** — A portable single-exe C# tool that extends Windows Batch scripting
