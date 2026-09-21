@@ -29,5 +29,5 @@
 
 ## Projects
 - **Sword Clash** — A multiplayer sword-combat game built in Roblox/Luau
-- **openLuaus** — My own lib/repo for modules and utilities for Luau
-- **openBatch** — A portable single-exe C# tool that extends Windows Batch scripting
+- **[openLuaus](https://github.com/azzzxc1/openLuaus)** — My own lib/repo for modules and utilities for Luau
+- **[openBatch](https://github.com/azzzxc1/openbatch)** — A portable single-exe C# tool that extends Windows Batch scripting
