@@ -1,6 +1,6 @@
 <h1 align="center">Hello! My name is azxc1</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1000&color=F72E2E&width=435&lines=Roblox+%2F+Luau+Developer;Building+Sword+Clash+%26+openLuauS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=32&pause=1000&color=F72E2E&center=true&vCenter=true&width=620&lines=C%23+%2F+Luau+%2F+Python+Developer;Building+Sword+Clash+%26+openLuaus)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=azzzxc1&style=for-the-badge)
 
