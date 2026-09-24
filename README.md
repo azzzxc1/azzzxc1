@@ -25,7 +25,6 @@
 
 ## Stats
 ![azxc1's GitHub stats](https://selfhosted-vercel.vercel.app/api?username=azzzxc1&show_icons=true&theme=transparent)
-![Top Languages](https://selfhosted-vercel.vercel.app/api/top-langs/?username=azzzxc1&layout=compact&theme=transparent)
 
 ## Projects
 - **Sword Clash** — A multiplayer sword-combat game built in Roblox/Luau
