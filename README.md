@@ -28,6 +28,6 @@
 ![Top Languages](https://selfhosted-vercel.vercel.app/api/top-langs/?username=azzzxc1&layout=compact&theme=transparent&refresh=true)
 
 ## Projects
-- **Sword Clash** — A multiplayer sword-combat game built in Roblox/Luau
+- **[Sword Clash](https://www.roblox.com/games/138287798669476/Sword-Clash )** — A multiplayer sword-combat game built in Roblox/Luau
 - **[openLuaus](https://github.com/azzzxc1/openLuaus)** — My own lib/repo for modules and utilities for Luau
 - **[openBatch](https://github.com/azzzxc1/openbatch)** — A portable single-exe C# tool that extends Windows Batch scripting
