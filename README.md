@@ -53,9 +53,6 @@ I'm a developer focused on **game systems and tooling**, currently building **Sw
 
 <div align="center">
 
-<img src="https://selfhosted-vercel.vercel.app/api?username=azzzxc1&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://selfhosted-vercel.vercel.app/api/top-langs/?username=azzzxc1&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165"/>
-
 <img src="https://raw.githubusercontent.com/azzzxc1/azzzxc1/main/metrics.svg" />
 
 </div>
