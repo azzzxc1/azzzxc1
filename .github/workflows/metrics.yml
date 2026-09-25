@@ -1,0 +1,50 @@
+name: Generate Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Se ejecuta cada 12 horas
+    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # --- Plugins ---
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+
+          plugin_stars: yes
+          plugin_stars_limit: 5
+
+          plugin_pull_requests: yes
+          plugin_pull_requests_limit: 5
+
+          plugin_issues: yes
+          plugin_issues_limit: 5
+
+          plugin_pagespeed: no
+
+          plugin_habits: yes
+          plugin_habits_charts_type: bar
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+
+          # Racha de commits (streak)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # --- Tema visual ---
+          config_timezone: America/Hermosillo
