@@ -16,7 +16,7 @@
 I'm a developer focused on **game systems and tooling**, currently building **Sword Clash**, a multiplayer sword-combat game on Roblox, and maintaining **openLuaus**, my personal library of reusable Luau modules and utilities.
 
 - Currently working on **Sword Clash** (Roblox / Luau)
-- Building and maintaining **openLuaus** and **openBatch**
+- Building and maintaining **openLuaus** and **OptiTool**
 - Learning **C#** and **Java**
 
 ---
@@ -41,11 +41,15 @@ I'm a developer focused on **game systems and tooling**, currently building **Sw
 
 ## Featured Projects
 
+<div align="center">
+  
 | Project | Description |
 |---|---|
 | **[Sword Clash](https://www.roblox.com/games/138287798669476/Sword-Clash)** | A multiplayer sword-combat game built in Roblox/Luau |
 | **[openLuaus](https://github.com/azzzxc1/openLuaus)** | My own library of reusable Luau modules and utilities |
-| **[openBatch](https://github.com/azzzxc1/openbatch)** | A portable single-exe C# tool that extends Windows Batch scripting |
+| **[OptiTool](https://github.com/azzzxc1/optitool)** | A .cmd tool for optimizing Windows, viewing system info, and uninstalling apps. |
+
+</div>
 
 ---
 
@@ -61,5 +65,9 @@ I'm a developer focused on **game systems and tooling**, currently building **Sw
 
 ## Contact
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azxc1.q1@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azzzxc1)
+
+</div>
