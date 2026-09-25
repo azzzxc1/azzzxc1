@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm azxc1 👋
+# Hi, I'm azxc1
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=28&pause=1000&color=F72E2E&center=true&vCenter=true&width=600&lines=C%23+%2F+Luau+%2F+Python+Developer;Building+Sword+Clash+%F0%9F%97%A1%EF%B8%8F;Maintaining+openLuaus;:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=28&pause=1000&color=F72E2E&center=true&vCenter=true&width=600&lines=C%23+%2F+Luau+%2F+Python+Developer;Building+Sword+Clash;Maintaining+openLuaus)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=azzzxc1&style=for-the-badge&color=F72E2E)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azxc1.q1@hotmail.com)
@@ -43,9 +43,9 @@ I'm a developer focused on **game systems and tooling**, currently building **Sw
 
 | Project | Description |
 |---|---|
-| 🗡️ **[Sword Clash](https://www.roblox.com/games/138287798669476/Sword-Clash)** | A multiplayer sword-combat game built in Roblox/Luau |
-| 📦 **[openLuaus](https://github.com/azzzxc1/openLuaus)** | My own library of reusable Luau modules and utilities |
-| ⚙️ **[openBatch](https://github.com/azzzxc1/openbatch)** | A portable single-exe C# tool that extends Windows Batch scripting |
+| **[Sword Clash](https://www.roblox.com/games/138287798669476/Sword-Clash)** | A multiplayer sword-combat game built in Roblox/Luau |
+| **[openLuaus](https://github.com/azzzxc1/openLuaus)** | My own library of reusable Luau modules and utilities |
+| **[openBatch](https://github.com/azzzxc1/openbatch)** | A portable single-exe C# tool that extends Windows Batch scripting |
 
 ---
 
@@ -55,6 +55,8 @@ I'm a developer focused on **game systems and tooling**, currently building **Sw
 
 <img src="https://selfhosted-vercel.vercel.app/api?username=azzzxc1&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://selfhosted-vercel.vercel.app/api/top-langs/?username=azzzxc1&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://raw.githubusercontent.com/azzzxc1/azzzxc1/main/metrics.svg" />
 
 </div>
 
