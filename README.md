@@ -45,7 +45,7 @@ I'm a developer focused on **game systems and tooling**, currently building **Sw
   
 | Project | Description |
 |---|---|
-| **[Sword Clash](https://www.roblox.com/games/138287798669476/Sword-Clash)** | A multiplayer sword-combat game built in Roblox/Luau |
+| **[Swordlock](https://www.roblox.com/games/138287798669476/Swordlock** | A multiplayer sword-combat game built in Roblox/Luau |
 | **[openLuaus](https://github.com/azzzxc1/openLuaus)** | My own library of reusable Luau modules and utilities |
 | **[OptiTool](https://github.com/azzzxc1/optitool)** | A .cmd tool for optimizing Windows, viewing system info, and uninstalling apps. |
 
