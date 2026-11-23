@@ -13,9 +13,9 @@
 
 ## About Me
 
-I'm a developer focused on **game systems and tooling**, currently building **Sword Clash**, a multiplayer sword-combat game on Roblox, and maintaining **openLuaus**, my personal library of reusable Luau modules and utilities.
+I'm a developer focused on **game systems and tooling**, currently building **Swordlock**, a multiplayer sword-combat game on Roblox, and maintaining **openLuaus**, my personal library of reusable Luau modules and utilities.
 
-- Currently working on **Sword Clash** (Roblox / Luau)
+- Currently working on **Swordlock** (Roblox / Luau)
 - Building and maintaining **openLuaus** and **OptiTool**
 - Learning **C#** and **Java**
 
